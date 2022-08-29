@@ -18,4 +18,6 @@ the cards shuffle.
 The "check" button simply shows the amount of each card left in
 the deck. This can be seen in the console.
 
+DOWNLOAD: download all the files and open the HTML file.
+
 Enjoy the game!
