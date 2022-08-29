@@ -1,0 +1,20 @@
+body {
+    background-image: url("tablecloth.png");
+}
+
+span {
+    font-size:xx-large;
+}
+
+button {
+    font-size: medium;
+    color: black;
+    background: goldenrod;
+    width: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+    border-style: groove;
+}
+
+
